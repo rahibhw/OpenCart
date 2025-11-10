@@ -1,318 +1,82 @@
-2025-11-09 16:02:50 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:02:50 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:02:59 INFO  TC001_validateAccountRegistration:15 -
+2025-11-10 14:17:25 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\master.xml"
+2025-11-10 14:18:19 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\master.xml"
+2025-11-10 14:18:24 INFO  TC001_validateAccountRegistration:15 -
 			Test execution started for TC001_Account Registration
-2025-11-09 16:02:59 INFO  TC001_validateAccountRegistration:20 -
+2025-11-10 14:18:24 INFO  TC001_validateAccountRegistration:20 -
 			clicked on myaccount link
-2025-11-09 16:03:00 INFO  TC001_validateAccountRegistration:22 -
+2025-11-10 14:18:25 INFO  TC001_validateAccountRegistration:22 -
 			clicked on registration link
-2025-11-09 16:03:00 INFO  TC001_validateAccountRegistration:25 -
+2025-11-10 14:18:25 INFO  TC001_validateAccountRegistration:25 -
 			providing customer details
-2025-11-09 16:03:02 INFO  TC001_validateAccountRegistration:35 -
+2025-11-10 14:18:27 INFO  TC001_validateAccountRegistration:35 -
 			Validating registration success message now
-2025-11-09 16:03:02 INFO  TC001_validateAccountRegistration:42 -
+2025-11-10 14:18:27 INFO  TC001_validateAccountRegistration:42 -
 			Test TC001_AccountRegistration  is passed
-2025-11-09 16:03:02 INFO  TC001_validateAccountRegistration:58 -
+2025-11-10 14:18:27 INFO  TC001_validateAccountRegistration:58 -
 			Finished Execution of TC001_Account Registration
-2025-11-09 16:03:05 INFO  TC002_LoginTest:15 -
+2025-11-10 14:18:30 INFO  TC002_LoginTest:15 -
 			****TC_002_Login Test is started*****
-2025-11-09 16:03:07 INFO  TC002_LoginTest:35 -
+2025-11-10 14:18:32 INFO  TC002_LoginTest:35 -
 			*****Test execution for TC002_login Test is completed
-2025-11-09 16:03:18 INFO  TC001_validateAccountRegistration:15 -
+2025-11-10 14:20:43 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\master.xml"
+2025-11-10 14:20:46 INFO  TC001_validateAccountRegistration:15 -
 			Test execution started for TC001_Account Registration
-2025-11-09 16:03:18 INFO  TC001_validateAccountRegistration:20 -
+2025-11-10 14:20:46 INFO  TC001_validateAccountRegistration:20 -
 			clicked on myaccount link
-2025-11-09 16:03:19 INFO  TC001_validateAccountRegistration:22 -
+2025-11-10 14:20:48 INFO  TC001_validateAccountRegistration:22 -
 			clicked on registration link
-2025-11-09 16:03:19 INFO  TC001_validateAccountRegistration:25 -
+2025-11-10 14:20:48 INFO  TC001_validateAccountRegistration:25 -
 			providing customer details
-2025-11-09 16:03:21 INFO  TC001_validateAccountRegistration:35 -
+2025-11-10 14:20:50 INFO  TC001_validateAccountRegistration:35 -
 			Validating registration success message now
-2025-11-09 16:03:21 INFO  TC001_validateAccountRegistration:42 -
+2025-11-10 14:20:50 INFO  TC001_validateAccountRegistration:42 -
 			Test TC001_AccountRegistration  is passed
-2025-11-09 16:03:21 INFO  TC001_validateAccountRegistration:58 -
+2025-11-10 14:20:50 INFO  TC001_validateAccountRegistration:58 -
 			Finished Execution of TC001_Account Registration
-2025-11-09 16:03:26 INFO  TC002_LoginTest:15 -
+2025-11-10 14:20:54 INFO  TC002_LoginTest:15 -
 			****TC_002_Login Test is started*****
-2025-11-09 16:03:27 INFO  TC002_LoginTest:35 -
+2025-11-10 14:20:56 INFO  TC002_LoginTest:35 -
 			*****Test execution for TC002_login Test is completed
-2025-11-09 16:06:23 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:06:24 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:06:26 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:06:27 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:06:27 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:06:27 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:06:29 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:06:29 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:06:29 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:06:31 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:06:33 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:06:39 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:06:39 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:06:40 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:06:40 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:06:41 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:06:41 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:06:41 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:06:45 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:06:47 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:17:11 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:17:12 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:17:20 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:17:20 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:17:21 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:17:21 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:17:23 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:17:23 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:17:23 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:17:24 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:17:26 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:17:35 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:17:35 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:17:36 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:17:36 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:17:37 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:17:37 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:17:37 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:17:41 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:17:42 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:25:41 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:25:41 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:25:47 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:25:47 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:25:48 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:25:48 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:25:50 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:25:50 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:25:50 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:25:51 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:25:53 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:26:00 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:26:00 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:26:01 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:26:01 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:26:02 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:26:02 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:26:02 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:26:06 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:26:08 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:27:18 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:27:18 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:27:22 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:27:24 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:27:24 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:27:24 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:27:31 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:27:32 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:29:09 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:29:09 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:32:26 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml"
-2025-11-09 16:32:27 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\gridexecution.xml
-
-2025-11-09 16:32:33 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:32:34 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:32:34 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:32:34 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:32:35 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:32:36 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:32:36 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:32:37 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:32:39 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 16:32:46 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 16:32:47 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 16:32:47 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 16:32:47 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 16:32:49 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 16:32:49 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 16:32:49 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 16:32:55 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 16:32:57 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 18:39:18 DEBUG TestNG:82 -
+2025-11-10 14:28:52 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\master.xml"
+2025-11-10 14:32:54 DEBUG TestNG:82 -
 			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\grid-docker.xml"
-2025-11-09 18:39:19 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\grid-docker.xml
-
-2025-11-09 18:39:28 INFO  TC001_validateAccountRegistration:15 -
+2025-11-10 14:33:00 INFO  TC001_validateAccountRegistration:15 -
 			Test execution started for TC001_Account Registration
-2025-11-09 18:39:28 INFO  TC001_validateAccountRegistration:20 -
+2025-11-10 14:33:00 INFO  TC001_validateAccountRegistration:20 -
 			clicked on myaccount link
-2025-11-09 18:39:29 INFO  TC001_validateAccountRegistration:22 -
+2025-11-10 14:33:01 INFO  TC001_validateAccountRegistration:22 -
 			clicked on registration link
-2025-11-09 18:39:29 INFO  TC001_validateAccountRegistration:25 -
+2025-11-10 14:33:01 INFO  TC001_validateAccountRegistration:25 -
 			providing customer details
-2025-11-09 18:39:33 INFO  TC001_validateAccountRegistration:35 -
+2025-11-10 14:33:03 INFO  TC001_validateAccountRegistration:35 -
 			Validating registration success message now
-2025-11-09 18:39:33 INFO  TC001_validateAccountRegistration:42 -
+2025-11-10 14:33:03 INFO  TC001_validateAccountRegistration:42 -
 			Test TC001_AccountRegistration  is passed
-2025-11-09 18:39:33 INFO  TC001_validateAccountRegistration:58 -
+2025-11-10 14:33:03 INFO  TC001_validateAccountRegistration:58 -
 			Finished Execution of TC001_Account Registration
-2025-11-09 18:39:36 INFO  TC002_LoginTest:15 -
+2025-11-10 14:33:06 INFO  TC002_LoginTest:15 -
 			****TC_002_Login Test is started*****
-2025-11-09 18:39:38 INFO  TC002_LoginTest:35 -
+2025-11-10 14:33:07 INFO  TC002_LoginTest:35 -
 			*****Test execution for TC002_login Test is completed
-2025-11-09 18:39:48 INFO  TC001_validateAccountRegistration:15 -
+2025-11-10 14:33:15 INFO  TC001_validateAccountRegistration:15 -
 			Test execution started for TC001_Account Registration
-2025-11-09 18:39:49 INFO  TC001_validateAccountRegistration:20 -
+2025-11-10 14:33:15 INFO  TC001_validateAccountRegistration:20 -
 			clicked on myaccount link
-2025-11-09 18:39:50 INFO  TC001_validateAccountRegistration:22 -
+2025-11-10 14:33:16 INFO  TC001_validateAccountRegistration:22 -
 			clicked on registration link
-2025-11-09 18:39:50 INFO  TC001_validateAccountRegistration:25 -
+2025-11-10 14:33:16 INFO  TC001_validateAccountRegistration:25 -
 			providing customer details
-2025-11-09 18:39:52 INFO  TC001_validateAccountRegistration:35 -
+2025-11-10 14:33:17 INFO  TC001_validateAccountRegistration:35 -
 			Validating registration success message now
-2025-11-09 18:39:52 INFO  TC001_validateAccountRegistration:42 -
+2025-11-10 14:33:17 INFO  TC001_validateAccountRegistration:42 -
 			Test TC001_AccountRegistration  is passed
-2025-11-09 18:39:52 INFO  TC001_validateAccountRegistration:58 -
+2025-11-10 14:33:17 INFO  TC001_validateAccountRegistration:58 -
 			Finished Execution of TC001_Account Registration
-2025-11-09 18:39:58 INFO  TC002_LoginTest:15 -
+2025-11-10 14:33:22 INFO  TC002_LoginTest:15 -
 			****TC_002_Login Test is started*****
-2025-11-09 18:40:00 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 18:56:49 DEBUG TestNG:82 -
-			suiteXmlPath: "C:\Users\rahib\Mazhar-workspace\Automation\openCart\grid-docker.xml"
-2025-11-09 18:56:50 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\rahib\Mazhar-workspace\Automation\openCart\grid-docker.xml
-
-2025-11-09 18:56:57 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 18:56:57 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 18:56:58 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 18:56:58 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 18:57:00 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 18:57:01 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 18:57:01 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 18:57:03 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 18:57:05 INFO  TC002_LoginTest:35 -
-			*****Test execution for TC002_login Test is completed
-2025-11-09 18:57:15 INFO  TC001_validateAccountRegistration:15 -
-			Test execution started for TC001_Account Registration
-2025-11-09 18:57:15 INFO  TC001_validateAccountRegistration:20 -
-			clicked on myaccount link
-2025-11-09 18:57:16 INFO  TC001_validateAccountRegistration:22 -
-			clicked on registration link
-2025-11-09 18:57:16 INFO  TC001_validateAccountRegistration:25 -
-			providing customer details
-2025-11-09 18:57:18 INFO  TC001_validateAccountRegistration:35 -
-			Validating registration success message now
-2025-11-09 18:57:18 INFO  TC001_validateAccountRegistration:42 -
-			Test TC001_AccountRegistration  is passed
-2025-11-09 18:57:18 INFO  TC001_validateAccountRegistration:58 -
-			Finished Execution of TC001_Account Registration
-2025-11-09 18:57:24 INFO  TC002_LoginTest:15 -
-			****TC_002_Login Test is started*****
-2025-11-09 18:57:26 INFO  TC002_LoginTest:35 -
+2025-11-10 14:33:23 INFO  TC002_LoginTest:35 -
 			*****Test execution for TC002_login Test is completed

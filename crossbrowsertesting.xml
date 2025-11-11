@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="ParallelTest" thread-count="5" parallel="tests">
+<suite name="ParallelTest" thread-count="5">
 
   <test  name="ChromeTest">
   <parameter name="browser" value="Chrome"/>
-  <parameter name="os" value="Window"/>
+  <parameter name="os" value="Windows"/>
     <classes>
       <class name="testCases.TC001_validateAccountRegistration"/>
     </classes>
@@ -12,7 +12,7 @@
   
     <test  name="EdgeTest">
   <parameter name="browser" value="Edge"/>
-  <parameter name="os" value="Window"/>
+  <parameter name="os" value="Windows"/>
     <classes>
       <class name="testCases.TC001_validateAccountRegistration"/>
     </classes>

@@ -28,6 +28,8 @@ public class RegistrationPage extends BasePage {
 	
 	@FindBy(xpath="//input[@type='submit']") WebElement btn_submit;
 	
+	@FindBy(xpath="//a[text()='Continue']") WebElement btn_continue;
+	
 	public void setFname(String fname)
 	{
 		txt_firstName.sendKeys(fname);
@@ -77,6 +79,19 @@ public class RegistrationPage extends BasePage {
 			return excp;
 		}
 
+	}
+	
+	public void clickContinue()
+	{
+		try 
+		{
+			btn_continue.click();
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+			e.getStackTrace();
+		}
 	}
 
 }

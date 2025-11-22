@@ -3,10 +3,15 @@ C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\Ba
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\HomePage.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\LoginPage.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\ProductPage.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\RegistrationPage.java
+C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\pageObjects\SearchPage.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC001_validateAccountRegistration.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC004_SearchProduct.java
+C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC005_SelectProduct.java
+C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\testCases\TC006_addSelectedProductToCart.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\utilities\DataProviders.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\utilities\ExcelUtility.java
 C:\Users\rahib\Mazhar-workspace\Automation\openCart\src\test\java\utilities\ExtentReportManager.java
